@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansible on Simon Apen-Sadler</title>
+    <link>http://sapensadler.com/tags/ansible/</link>
+    <description>Recent content in Ansible on Simon Apen-Sadler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 11:18:19 +0100</lastBuildDate>
+    
+	<atom:link href="http://sapensadler.com/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible - A first look</title>
+      <link>http://sapensadler.com/post/tech/ansible-a-first-look/</link>
+      <pubDate>Sun, 21 Oct 2018 11:18:19 +0100</pubDate>
+      
+      <guid>http://sapensadler.com/post/tech/ansible-a-first-look/</guid>
+      <description>I recently started looking at ansible. I&amp;rsquo;ve created a playbook to install a master/slave dns-server for my domain. I was surprised at how easy it was to setup. Having used puppet and seeing the overhead of running a puppet agent/master, this was much quicker to get started with. Puppet has it&amp;rsquo;s place (particularly in large scale environments), but ansible wins in terms of simplicity and ease of use to learn get stared with.</description>
+    </item>
+    
+  </channel>
+</rss>

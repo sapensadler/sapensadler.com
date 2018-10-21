@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karate on Simon Apen-Sadler</title>
+    <link>http://sapensadler.com/topics/karate/</link>
+    <description>Recent content in Karate on Simon Apen-Sadler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 11:18:14 +0100</lastBuildDate>
+    
+	<atom:link href="http://sapensadler.com/topics/karate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Karate?</title>
+      <link>http://sapensadler.com/post/karate/what-is-karate/</link>
+      <pubDate>Sun, 21 Oct 2018 11:18:14 +0100</pubDate>
+      
+      <guid>http://sapensadler.com/post/karate/what-is-karate/</guid>
+      <description>Karate means empty hand, but that doesn&amp;rsquo;t really describe what it is. Karate is an unarmed self defence method where karateka (people who do karate) practice certain techniques with the aim of using the entire body to generate power. When striking, the aim is to generate the maximum power your body is capable of. This practice can take a lifetime of study and dedication.</description>
+    </item>
+    
+  </channel>
+</rss>
